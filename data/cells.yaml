@@ -1,0 +1,2384 @@
+HA5CD:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - &id001 !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - 0
+    - 1
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - !!binary |
+    A/9dj09QNEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+HA5CL:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ihhqNInuSUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+HA5CM:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    lXY3vxLpEUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+HA5CS:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    TgU3DfFryD8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+HA5DC:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    JoAQcRZ9yT8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+HA5DG:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    jevo/+CgNUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+HA5DJ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    n4UdadDwM0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+HA5EP:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Nzi3E83JVEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+HA5EQ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    nwfyi4MYT0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+HA5ER:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Jp9A75jNUkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+HA5GG:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    g7dQwOdy4j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+HA5HO:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    DFQfY4STAkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+HA5II:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ynUYztqrUkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+HA5IK:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    We+1uJfbL0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+HA5IQ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    xvBqiqvmUkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+HA5JM:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /yFAJ2SHVEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+T01AG:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: &id002
+  - coords: !!python/tuple
+    - 2.0
+    - -2.0
+    label: DISP
+  - coords: !!python/tuple
+    - 2.0
+    - -3.5
+    label: MS
+T01AH:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    DdciYqZx4T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: &id003
+  - coords: !!python/tuple
+    - 2.0
+    - -2.0
+    label: OPT
+  - coords: !!python/tuple
+    - 2.0
+    - -3.25
+    label: MS
+T01AI:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01AJ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    8PXW3JMUT0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: &id005
+  - coords: !!python/tuple
+    - 2.0
+    - -2.0
+    label: OPT
+  - coords: !!python/tuple
+    - 2.0
+    - -3.75
+    label: MS
+T01AK:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    27sabySCTkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: &id006
+  - coords: !!python/tuple
+    - 2.0
+    - -2.0
+    label: OPT
+  - coords: !!python/tuple
+    - 2.0
+    - -3.55
+    label: MS
+T01AL:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    8UAhM6O8TUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: &id007
+  - coords: !!python/tuple
+    - 2.0
+    - -2.0
+    label: OPT
+  - coords: !!python/tuple
+    - 2.0
+    - -3.35
+    label: MS
+T01AM:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    GFpXsyBZTUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01AN:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01AO:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /waxbGD12T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01BE:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01BF:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    X9YD6XjQTUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: &id004
+  - coords: !!python/tuple
+    - 2.0
+    - -2.0
+    label: OPT
+  - coords: !!python/tuple
+    - 2.0
+    - -3.4
+    label: MS
+T01BG:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    QWAG1l6gTUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01BH:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Z2a3aMJlTUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01BI:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01BJ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    0EL5RSnLTkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01BK:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    c5rNIBcLTkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01BL:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    G565EvVnTUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01BM:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    R2YoDMeETEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01BN:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01BO:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    vkvgyfpDTkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01BP:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    pEOK2qcgTkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01BQ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    IMLrI0bwTUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01CC:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01CD:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    TThUiZq/TEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01CE:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    jIAzPhpbTEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01CF:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    k/xFZjDbS0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01CG:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    IMT6TAfRS0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01CH:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yII44NqkSkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01CI:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01CJ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    dy+artqZ5z8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01CK:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    HH/LwmqX5D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01CL:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    zjiJeyps4T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01CM:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ecDlfSkg5D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01CN:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01CO:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ELt1Hq/ET0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01CP:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    1Sv+jWE6UEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01CQ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    3jtYdqh4UEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01CR:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    LrWzMFdYUEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01CS:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    z37rpRcTTUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01DB:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01DC:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    WGuiMucJTkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01DD:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    394iufidTUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01DE:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    QR1HS4bUTEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01DF:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    7YVTtspLTEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01DG:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    aWPPIG9/TEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01DH:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PaHA5xRvTEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01DI:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01DJ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    auE7v4YGTkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01DK:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    niba2E9TTkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01DL:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    35zu/9fNTEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01DM:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    DpVS2P2MS0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01DN:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01DO:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    iMzcD0G9S0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01DP:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    cT8x2XsZS0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01DQ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yv2G+DVTS0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01DR:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4P6Y3mm4SkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01DS:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    XyS6UCYyTEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01DT:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Pg2LqSdLSUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01EB:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01EC:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    CKNgWGK8AUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01ED:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    2kgZmaIJ/z8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01EE:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    xU3zdrF9CEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01EF:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    J0ZD/Qrj+T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01EG:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    6gGy6wkKBUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01EH:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    BB3EYpE8BUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01EI:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01EJ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    RNO/HPe/BUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01EK:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PYV2WvKdAkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01EL:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    txlMeUlHAEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01EM:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    EXa0NVsFBEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01EN:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01EO:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    nrC7oY+TAkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01EP:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    pKHh8w8oAUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01EQ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    sO95ZSRfBEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01ER:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    MT682wTsAkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01ES:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    odFkIovHBkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01ET:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    DKqW9xUtBEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01FA:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01FB:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    470ftOXa3D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01FC:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    z4StmEnI3T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01FD:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    szQbjpey1j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01FE:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    nylCXGj95T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01FF:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yFMPncel2T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01FG:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Q2GJ7oSG3z8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01FH:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    aLwSipjQ4D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01FI:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01FJ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ttPEKsFfBUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01FK:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    6WRkAb4i/j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01FL:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    pU5pylywBUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01FM:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    NCTtWPbnA0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01FN:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01FO:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    VHNITxKIB0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01FP:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PaPA8Lj0BEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01FQ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    KZlPTbGkAUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01FR:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    f+xEPpys+T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01FS:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    dDQXe6wMA0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01FT:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    qHF1bKsdA0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01FU:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    bmFEVpYwBEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01GA:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01GB:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    oa0oEGYL3T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01GD:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01GE:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    DRfkRmCG4T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01GF:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    NVk/mszk2T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01GG:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4BdTBzXv2j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01GH:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    cQztnvDX5D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01GI:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01GJ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    sxRpCuxLA0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01GK:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    pa14LRVWBUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords: !!python/tuple
+    - 2.0
+    - -2.0
+    label: OPT
+  - coords: !!python/tuple
+    - 2.0
+    - -3.55
+    label: MS
+T01GL:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    gz8qz/Bt/T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01GM:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /QQRriQpBEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01GN:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01GO:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    6ygZRL824j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01GP:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Cn3J0fb02T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01GQ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Gz5PfvW13D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01GR:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    xhPR9dim4j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01GT:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01GU:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    F6nRF69G4D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01HA:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01HB:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4PPdGBVL4T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HC:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    KDNZ8Ys04D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HD:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9iD9q21f4D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HE:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    KxFvLG5U4T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HF:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    aLMBo1kq2T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HG:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    jdcGnFlF4z8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HH:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    tFbcl+fQ6j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HI:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: 0.0
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HJ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    +BStupV63j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HK:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    7xLCCdew4D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HL:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    aEAFNrcc4T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HM:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    aepta4bD4D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HN:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: 0.0
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HO:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    LGsg/5mE6z8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HP:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    XlCyK6Km3T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HQ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    zw6rahi04T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HR:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4jUxXrjd4j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HS:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    oaAXK8rC4j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HT:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    wtcW5OGU3j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01HU:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    MWxRqtj27D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01IB:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01IC:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    d2UM/i/j4j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: &id008
+  - coords: !!python/tuple
+    - 2.0
+    - -2.0
+    label: OPT
+  - coords: !!python/tuple
+    - 2.8838834764831844
+    - -2.8838834764831844
+    label: MS
+T01ID:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    zrdKOHKH4T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id008
+T01IE:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    vORXp35E1T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id008
+T01IF:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    5boE3VLG5D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id008
+T01IG:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    80doxGg61z8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id008
+T01IH:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    3rSXnz7I3j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01II:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01IJ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    BiXjNYQs1T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id008
+T01IK:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    my240W+e4j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id008
+T01IL:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    HRPDF8oZ4D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id008
+T01IM:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Obz+5D+45j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01IN:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01IO:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /RlRKKs+3D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id008
+T01IP:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    WYTPj8CF6D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id008
+T01IQ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yGe4+oJI3z8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id008
+T01IR:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    mz5z8BPc5D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id008
+T01IS:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    2f6eADsH2T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id008
+T01IT:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    3Cz2b13N3T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01JB:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01JC:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    8JFLxAUq4z8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01JD:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    MOYXxjO62D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01JE:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    2W2oequT1j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01JF:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    IK16CW6J4T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01JG:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    5uZWtZ0o5z8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01JH:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    SQSZxnGg5j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01JI:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01JJ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    q9iU/Bxm2j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01JK:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    kWUZHlbi1j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01JL:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    FYQXP4Wi4D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01JM:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4sphmq1Z2j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01JN:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01JO:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    WRCivp6w4j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01JP:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    apGerJCJ2j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01JQ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    rvHhgqPj4T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01JR:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    DwmquxWT4T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01JS:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    00xD64GM5T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01JT:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    5jTX2Jh34j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01KC:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01KD:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    BRp02xgA5j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01KE:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    T2+IWv0O4D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01KF:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    vzejMV+Q3z8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01KG:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    RY3Kozz74D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01KH:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UJVNArLS4D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01KI:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01KJ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AWJ25H5e0T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01KK:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    QB8rHOQQ4D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01KL:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    IIKDncjm1j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01KM:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    sN71YvoT1T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01KN:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01KO:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    7LsUHVh74T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01KP:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    bpHDBDN52T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01KQ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    82nDbt0u6z8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01KR:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    q0LExhoY4T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01KS:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    lJQhX0oP2z8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01LE:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01LF:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    RlCr0QXH4z8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01LG:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    OXWs4+NU3j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01LH:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    IVug4NSz2D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01LI:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01LJ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    w+0fWBekBkA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01LK:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    mxw/2goB/j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01LL:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Py8Aez4MAEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01LM:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    eAa8Jt6MAUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01LN:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01LO:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    FTR8BFAF4T8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01LP:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /XNBAmsd4z8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id004
+T01LQ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    YA5X9I1t3j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01MG:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01MH:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    uH72+x+w5j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01MI:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01MJ:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    alHpvC7U1z8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id005
+T01MK:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    nnqT8BFC4D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id006
+T01ML:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    NE9Q3+Jg3z8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id007
+T01MM:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    P1OxgIVt4j8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+T01MN:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: -1
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id002
+T01MO:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    VudyG/jj2D8=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points: *id003
+TR4KD:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Pgqvs74dM0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+TRQ05:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    RriYu6iCDEA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+TRU11:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    S20UnBoOD0A=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT
+TRU17:
+  _activation_flag: false
+  _alkali: Cs
+  _contrast: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    59ihkV03DUA=
+  _imaging_flag: true
+  _spectroscopy_flag: true
+  points:
+  - coords:
+    - 2.0
+    - -2.0
+    label: OPT

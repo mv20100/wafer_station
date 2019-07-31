@@ -1,0 +1,251 @@
+<Layout>
+  <CellList>
+    <Cell id="97922800" name="T-Cell">
+      <Point label="OPT" posX="2000.0" posY="-2000.0"/>
+      <Point label="MS" posX="2000.0" posY="-3400.0"/>
+    </Cell>
+    <Cell id="97899912" name="T-Cell">
+      <Point label="OPT" posX="2000.0" posY="-2000.0"/>
+      <Point label="MS" posX="2883.8834764831845" posY="-2883.8834764831845"/>
+    </Cell>
+    <Cell id="97910176" name="T-Cell">
+      <Point label="OPT" posX="2000.0" posY="-2000.0"/>
+      <Point label="MS" posX="2000.0" posY="-3350.0"/>
+    </Cell>
+    <Cell id="97977736" name="T-Cell">
+      <Point label="OPT" posX="2000.0" posY="-2000.0"/>
+      <Point label="MS" posX="2000.0" posY="-3550.0"/>
+    </Cell>
+    <Cell id="100535040" name="T-Cell">
+      <Point label="OPT" posX="2000.0" posY="-2000.0"/>
+      <Point label="MS" posX="2000.0" posY="-3750.0"/>
+    </Cell>
+    <Cell id="100580768" name="T-Cell">
+      <Point label="OPT" posX="2000.0" posY="-2000.0"/>
+      <Point label="MS" posX="2000.0" posY="-3250.0"/>
+    </Cell>
+    <Cell id="100579200" name="T-Cell">
+      <Point label="DISP" posX="2000.0" posY="-2000.0"/>
+      <Point label="MS" posX="2000.0" posY="-3500.0"/>
+    </Cell>
+  </CellList>
+  <Array cellNumber="215">
+    <PositionList>
+      <Position label="FA" posX="-45000.0" posY="9300.0" indX="0" indY="5" id="100579200"/>
+      <Position label="GA" posX="-45000.0" posY="3000.0" indX="0" indY="6" id="100579200"/>
+      <Position label="HA" posX="-45000.0" posY="-3300.0" indX="0" indY="7" id="100579200"/>
+      <Position label="DB" posX="-40700.0" posY="21900.0" indX="1" indY="3" id="100579200"/>
+      <Position label="EB" posX="-40700.0" posY="15600.0" indX="1" indY="4" id="100579200"/>
+      <Position label="FB" posX="-40700.0" posY="9300.0" indX="1" indY="5" id="97922800"/>
+      <Position label="GB" posX="-40700.0" posY="3000.0" indX="1" indY="6" id="100580768"/>
+      <Position label="HB" posX="-40700.0" posY="-3300.0" indX="1" indY="7" id="97922800"/>
+      <Position label="IB" posX="-40700.0" posY="-9600.0" indX="1" indY="8" id="100579200"/>
+      <Position label="JB" posX="-40700.0" posY="-15900.0" indX="1" indY="9" id="100579200"/>
+      <Position label="CC" posX="-36400.0" posY="28200.0" indX="2" indY="2" id="100579200"/>
+      <Position label="DC" posX="-36400.0" posY="21900.0" indX="2" indY="3" id="97977736"/>
+      <Position label="EC" posX="-36400.0" posY="15600.0" indX="2" indY="4" id="97910176"/>
+      <Position label="FC" posX="-36400.0" posY="9300.0" indX="2" indY="5" id="97922800"/>
+      <Position label="HC" posX="-36400.0" posY="-3300.0" indX="2" indY="7" id="97922800"/>
+      <Position label="IC" posX="-36400.0" posY="-9600.0" indX="2" indY="8" id="97899912"/>
+      <Position label="JC" posX="-36400.0" posY="-15900.0" indX="2" indY="9" id="97922800"/>
+      <Position label="KC" posX="-36400.0" posY="-22200.0" indX="2" indY="10" id="100579200"/>
+      <Position label="CD" posX="-32100.0" posY="28200.0" indX="3" indY="2" id="100535040"/>
+      <Position label="DD" posX="-32100.0" posY="21900.0" indX="3" indY="3" id="97977736"/>
+      <Position label="ED" posX="-32100.0" posY="15600.0" indX="3" indY="4" id="97910176"/>
+      <Position label="FD" posX="-32100.0" posY="9300.0" indX="3" indY="5" id="97922800"/>
+      <Position label="GD" posX="-32100.0" posY="3000.0" indX="3" indY="6" id="100579200"/>
+      <Position label="HD" posX="-32100.0" posY="-3300.0" indX="3" indY="7" id="97922800"/>
+      <Position label="ID" posX="-32100.0" posY="-9600.0" indX="3" indY="8" id="97899912"/>
+      <Position label="JD" posX="-32100.0" posY="-15900.0" indX="3" indY="9" id="97922800"/>
+      <Position label="KD" posX="-32100.0" posY="-22200.0" indX="3" indY="10" id="97922800"/>
+      <Position label="BE" posX="-27800.0" posY="34500.0" indX="4" indY="1" id="100579200"/>
+      <Position label="CE" posX="-27800.0" posY="28200.0" indX="4" indY="2" id="100535040"/>
+      <Position label="DE" posX="-27800.0" posY="21900.0" indX="4" indY="3" id="97977736"/>
+      <Position label="EE" posX="-27800.0" posY="15600.0" indX="4" indY="4" id="97910176"/>
+      <Position label="FE" posX="-27800.0" posY="9300.0" indX="4" indY="5" id="97922800"/>
+      <Position label="GE" posX="-27800.0" posY="3000.0" indX="4" indY="6" id="97922800"/>
+      <Position label="HE" posX="-27800.0" posY="-3300.0" indX="4" indY="7" id="97922800"/>
+      <Position label="IE" posX="-27800.0" posY="-9600.0" indX="4" indY="8" id="97899912"/>
+      <Position label="JE" posX="-27800.0" posY="-15900.0" indX="4" indY="9" id="97922800"/>
+      <Position label="KE" posX="-27800.0" posY="-22200.0" indX="4" indY="10" id="97922800"/>
+      <Position label="LE" posX="-27800.0" posY="-28500.0" indX="4" indY="11" id="100579200"/>
+      <Position label="BF" posX="-23500.0" posY="34500.0" indX="5" indY="1" id="97922800"/>
+      <Position label="CF" posX="-23500.0" posY="28200.0" indX="5" indY="2" id="100535040"/>
+      <Position label="DF" posX="-23500.0" posY="21900.0" indX="5" indY="3" id="97977736"/>
+      <Position label="EF" posX="-23500.0" posY="15600.0" indX="5" indY="4" id="97910176"/>
+      <Position label="FF" posX="-23500.0" posY="9300.0" indX="5" indY="5" id="97922800"/>
+      <Position label="GF" posX="-23500.0" posY="3000.0" indX="5" indY="6" id="97922800"/>
+      <Position label="HF" posX="-23500.0" posY="-3300.0" indX="5" indY="7" id="97922800"/>
+      <Position label="IF" posX="-23500.0" posY="-9600.0" indX="5" indY="8" id="97899912"/>
+      <Position label="JF" posX="-23500.0" posY="-15900.0" indX="5" indY="9" id="97922800"/>
+      <Position label="KF" posX="-23500.0" posY="-22200.0" indX="5" indY="10" id="97922800"/>
+      <Position label="LF" posX="-23500.0" posY="-28500.0" indX="5" indY="11" id="97922800"/>
+      <Position label="AG" posX="-19200.0" posY="40800.0" indX="6" indY="0" id="100579200"/>
+      <Position label="BG" posX="-19200.0" posY="34500.0" indX="6" indY="1" id="97922800"/>
+      <Position label="CG" posX="-19200.0" posY="28200.0" indX="6" indY="2" id="100535040"/>
+      <Position label="DG" posX="-19200.0" posY="21900.0" indX="6" indY="3" id="97977736"/>
+      <Position label="EG" posX="-19200.0" posY="15600.0" indX="6" indY="4" id="97910176"/>
+      <Position label="FG" posX="-19200.0" posY="9300.0" indX="6" indY="5" id="97922800"/>
+      <Position label="GG" posX="-19200.0" posY="3000.0" indX="6" indY="6" id="97922800"/>
+      <Position label="HG" posX="-19200.0" posY="-3300.0" indX="6" indY="7" id="97922800"/>
+      <Position label="IG" posX="-19200.0" posY="-9600.0" indX="6" indY="8" id="97899912"/>
+      <Position label="JG" posX="-19200.0" posY="-15900.0" indX="6" indY="9" id="97922800"/>
+      <Position label="KG" posX="-19200.0" posY="-22200.0" indX="6" indY="10" id="97922800"/>
+      <Position label="LG" posX="-19200.0" posY="-28500.0" indX="6" indY="11" id="97922800"/>
+      <Position label="MG" posX="-19200.0" posY="-34800.0" indX="6" indY="12" id="100579200"/>
+      <Position label="AH" posX="-14900.0" posY="40800.0" indX="7" indY="0" id="100580768"/>
+      <Position label="BH" posX="-14900.0" posY="34500.0" indX="7" indY="1" id="100580768"/>
+      <Position label="CH" posX="-14900.0" posY="28200.0" indX="7" indY="2" id="100580768"/>
+      <Position label="DH" posX="-14900.0" posY="21900.0" indX="7" indY="3" id="100580768"/>
+      <Position label="EH" posX="-14900.0" posY="15600.0" indX="7" indY="4" id="100580768"/>
+      <Position label="FH" posX="-14900.0" posY="9300.0" indX="7" indY="5" id="100580768"/>
+      <Position label="GH" posX="-14900.0" posY="3000.0" indX="7" indY="6" id="100580768"/>
+      <Position label="HH" posX="-14900.0" posY="-3300.0" indX="7" indY="7" id="97922800"/>
+      <Position label="IH" posX="-14900.0" posY="-9600.0" indX="7" indY="8" id="100580768"/>
+      <Position label="JH" posX="-14900.0" posY="-15900.0" indX="7" indY="9" id="100580768"/>
+      <Position label="KH" posX="-14900.0" posY="-22200.0" indX="7" indY="10" id="100580768"/>
+      <Position label="LH" posX="-14900.0" posY="-28500.0" indX="7" indY="11" id="100580768"/>
+      <Position label="MH" posX="-14900.0" posY="-34800.0" indX="7" indY="12" id="100580768"/>
+      <Position label="AI" posX="-10600.0" posY="40800.0" indX="8" indY="0" id="100579200"/>
+      <Position label="BI" posX="-10600.0" posY="34500.0" indX="8" indY="1" id="100579200"/>
+      <Position label="CI" posX="-10600.0" posY="28200.0" indX="8" indY="2" id="100579200"/>
+      <Position label="DI" posX="-10600.0" posY="21900.0" indX="8" indY="3" id="100579200"/>
+      <Position label="EI" posX="-10600.0" posY="15600.0" indX="8" indY="4" id="100579200"/>
+      <Position label="FI" posX="-10600.0" posY="9300.0" indX="8" indY="5" id="100579200"/>
+      <Position label="GI" posX="-10600.0" posY="3000.0" indX="8" indY="6" id="100579200"/>
+      <Position label="HI" posX="-10600.0" posY="-3300.0" indX="8" indY="7" id="97922800"/>
+      <Position label="II" posX="-10600.0" posY="-9600.0" indX="8" indY="8" id="100579200"/>
+      <Position label="JI" posX="-10600.0" posY="-15900.0" indX="8" indY="9" id="100579200"/>
+      <Position label="KI" posX="-10600.0" posY="-22200.0" indX="8" indY="10" id="100579200"/>
+      <Position label="LI" posX="-10600.0" posY="-28500.0" indX="8" indY="11" id="100579200"/>
+      <Position label="MI" posX="-10600.0" posY="-34800.0" indX="8" indY="12" id="100579200"/>
+      <Position label="AJ" posX="-6300.0" posY="40800.0" indX="9" indY="0" id="100535040"/>
+      <Position label="BJ" posX="-6300.0" posY="34500.0" indX="9" indY="1" id="100535040"/>
+      <Position label="CJ" posX="-6300.0" posY="28200.0" indX="9" indY="2" id="100535040"/>
+      <Position label="DJ" posX="-6300.0" posY="21900.0" indX="9" indY="3" id="100535040"/>
+      <Position label="EJ" posX="-6300.0" posY="15600.0" indX="9" indY="4" id="100535040"/>
+      <Position label="FJ" posX="-6300.0" posY="9300.0" indX="9" indY="5" id="100535040"/>
+      <Position label="GJ" posX="-6300.0" posY="3000.0" indX="9" indY="6" id="100535040"/>
+      <Position label="HJ" posX="-6300.0" posY="-3300.0" indX="9" indY="7" id="97922800"/>
+      <Position label="IJ" posX="-6300.0" posY="-9600.0" indX="9" indY="8" id="97899912"/>
+      <Position label="JJ" posX="-6300.0" posY="-15900.0" indX="9" indY="9" id="100535040"/>
+      <Position label="KJ" posX="-6300.0" posY="-22200.0" indX="9" indY="10" id="100535040"/>
+      <Position label="LJ" posX="-6300.0" posY="-28500.0" indX="9" indY="11" id="100535040"/>
+      <Position label="MJ" posX="-6300.0" posY="-34800.0" indX="9" indY="12" id="100535040"/>
+      <Position label="AK" posX="-2000.0" posY="40800.0" indX="10" indY="0" id="97977736"/>
+      <Position label="BK" posX="-2000.0" posY="34500.0" indX="10" indY="1" id="97977736"/>
+      <Position label="CK" posX="-2000.0" posY="28200.0" indX="10" indY="2" id="97977736"/>
+      <Position label="DK" posX="-2000.0" posY="21900.0" indX="10" indY="3" id="97977736"/>
+      <Position label="EK" posX="-2000.0" posY="15600.0" indX="10" indY="4" id="97977736"/>
+      <Position label="FK" posX="-2000.0" posY="9300.0" indX="10" indY="5" id="97977736"/>
+      <Position label="GK" posX="-2000.0" posY="3000.0" indX="10" indY="6" id="97977736"/>
+      <Position label="HK" posX="-2000.0" posY="-3300.0" indX="10" indY="7" id="97922800"/>
+      <Position label="IK" posX="-2000.0" posY="-9600.0" indX="10" indY="8" id="97899912"/>
+      <Position label="JK" posX="-2000.0" posY="-15900.0" indX="10" indY="9" id="97977736"/>
+      <Position label="KK" posX="-2000.0" posY="-22200.0" indX="10" indY="10" id="97977736"/>
+      <Position label="LK" posX="-2000.0" posY="-28500.0" indX="10" indY="11" id="97977736"/>
+      <Position label="MK" posX="-2000.0" posY="-34800.0" indX="10" indY="12" id="97977736"/>
+      <Position label="AL" posX="2300.0" posY="40800.0" indX="11" indY="0" id="97910176"/>
+      <Position label="BL" posX="2300.0" posY="34500.0" indX="11" indY="1" id="97910176"/>
+      <Position label="CL" posX="2300.0" posY="28200.0" indX="11" indY="2" id="97910176"/>
+      <Position label="DL" posX="2300.0" posY="21900.0" indX="11" indY="3" id="97910176"/>
+      <Position label="EL" posX="2300.0" posY="15600.0" indX="11" indY="4" id="97910176"/>
+      <Position label="FL" posX="2300.0" posY="9300.0" indX="11" indY="5" id="97910176"/>
+      <Position label="GL" posX="2300.0" posY="3000.0" indX="11" indY="6" id="97910176"/>
+      <Position label="HL" posX="2300.0" posY="-3300.0" indX="11" indY="7" id="97922800"/>
+      <Position label="IL" posX="2300.0" posY="-9600.0" indX="11" indY="8" id="97899912"/>
+      <Position label="JL" posX="2300.0" posY="-15900.0" indX="11" indY="9" id="97910176"/>
+      <Position label="KL" posX="2300.0" posY="-22200.0" indX="11" indY="10" id="97910176"/>
+      <Position label="LL" posX="2300.0" posY="-28500.0" indX="11" indY="11" id="97910176"/>
+      <Position label="ML" posX="2300.0" posY="-34800.0" indX="11" indY="12" id="97910176"/>
+      <Position label="AM" posX="6600.0" posY="40800.0" indX="12" indY="0" id="100580768"/>
+      <Position label="BM" posX="6600.0" posY="34500.0" indX="12" indY="1" id="100580768"/>
+      <Position label="CM" posX="6600.0" posY="28200.0" indX="12" indY="2" id="100580768"/>
+      <Position label="DM" posX="6600.0" posY="21900.0" indX="12" indY="3" id="100580768"/>
+      <Position label="EM" posX="6600.0" posY="15600.0" indX="12" indY="4" id="100580768"/>
+      <Position label="FM" posX="6600.0" posY="9300.0" indX="12" indY="5" id="100580768"/>
+      <Position label="GM" posX="6600.0" posY="3000.0" indX="12" indY="6" id="100580768"/>
+      <Position label="HM" posX="6600.0" posY="-3300.0" indX="12" indY="7" id="97922800"/>
+      <Position label="IM" posX="6600.0" posY="-9600.0" indX="12" indY="8" id="100580768"/>
+      <Position label="JM" posX="6600.0" posY="-15900.0" indX="12" indY="9" id="100580768"/>
+      <Position label="KM" posX="6600.0" posY="-22200.0" indX="12" indY="10" id="100580768"/>
+      <Position label="LM" posX="6600.0" posY="-28500.0" indX="12" indY="11" id="100580768"/>
+      <Position label="MM" posX="6600.0" posY="-34800.0" indX="12" indY="12" id="100580768"/>
+      <Position label="AN" posX="10900.0" posY="40800.0" indX="13" indY="0" id="100579200"/>
+      <Position label="BN" posX="10900.0" posY="34500.0" indX="13" indY="1" id="100579200"/>
+      <Position label="CN" posX="10900.0" posY="28200.0" indX="13" indY="2" id="100579200"/>
+      <Position label="DN" posX="10900.0" posY="21900.0" indX="13" indY="3" id="100579200"/>
+      <Position label="EN" posX="10900.0" posY="15600.0" indX="13" indY="4" id="100579200"/>
+      <Position label="FN" posX="10900.0" posY="9300.0" indX="13" indY="5" id="100579200"/>
+      <Position label="GN" posX="10900.0" posY="3000.0" indX="13" indY="6" id="100579200"/>
+      <Position label="HN" posX="10900.0" posY="-3300.0" indX="13" indY="7" id="97922800"/>
+      <Position label="IN" posX="10900.0" posY="-9600.0" indX="13" indY="8" id="100579200"/>
+      <Position label="JN" posX="10900.0" posY="-15900.0" indX="13" indY="9" id="100579200"/>
+      <Position label="KN" posX="10900.0" posY="-22200.0" indX="13" indY="10" id="100579200"/>
+      <Position label="LN" posX="10900.0" posY="-28500.0" indX="13" indY="11" id="100579200"/>
+      <Position label="MN" posX="10900.0" posY="-34800.0" indX="13" indY="12" id="100579200"/>
+      <Position label="AO" posX="15200.0" posY="40800.0" indX="14" indY="0" id="100580768"/>
+      <Position label="BO" posX="15200.0" posY="34500.0" indX="14" indY="1" id="97922800"/>
+      <Position label="CO" posX="15200.0" posY="28200.0" indX="14" indY="2" id="100535040"/>
+      <Position label="DO" posX="15200.0" posY="21900.0" indX="14" indY="3" id="97977736"/>
+      <Position label="EO" posX="15200.0" posY="15600.0" indX="14" indY="4" id="97910176"/>
+      <Position label="FO" posX="15200.0" posY="9300.0" indX="14" indY="5" id="97922800"/>
+      <Position label="GO" posX="15200.0" posY="3000.0" indX="14" indY="6" id="97922800"/>
+      <Position label="HO" posX="15200.0" posY="-3300.0" indX="14" indY="7" id="97922800"/>
+      <Position label="IO" posX="15200.0" posY="-9600.0" indX="14" indY="8" id="97899912"/>
+      <Position label="JO" posX="15200.0" posY="-15900.0" indX="14" indY="9" id="97922800"/>
+      <Position label="KO" posX="15200.0" posY="-22200.0" indX="14" indY="10" id="97922800"/>
+      <Position label="LO" posX="15200.0" posY="-28500.0" indX="14" indY="11" id="97922800"/>
+      <Position label="MO" posX="15200.0" posY="-34800.0" indX="14" indY="12" id="100580768"/>
+      <Position label="BP" posX="19500.0" posY="34500.0" indX="15" indY="1" id="97922800"/>
+      <Position label="CP" posX="19500.0" posY="28200.0" indX="15" indY="2" id="100535040"/>
+      <Position label="DP" posX="19500.0" posY="21900.0" indX="15" indY="3" id="97977736"/>
+      <Position label="EP" posX="19500.0" posY="15600.0" indX="15" indY="4" id="97910176"/>
+      <Position label="FP" posX="19500.0" posY="9300.0" indX="15" indY="5" id="97922800"/>
+      <Position label="GP" posX="19500.0" posY="3000.0" indX="15" indY="6" id="97922800"/>
+      <Position label="HP" posX="19500.0" posY="-3300.0" indX="15" indY="7" id="97922800"/>
+      <Position label="IP" posX="19500.0" posY="-9600.0" indX="15" indY="8" id="97899912"/>
+      <Position label="JP" posX="19500.0" posY="-15900.0" indX="15" indY="9" id="97922800"/>
+      <Position label="KP" posX="19500.0" posY="-22200.0" indX="15" indY="10" id="97922800"/>
+      <Position label="LP" posX="19500.0" posY="-28500.0" indX="15" indY="11" id="97922800"/>
+      <Position label="BQ" posX="23800.0" posY="34500.0" indX="16" indY="1" id="100580768"/>
+      <Position label="CQ" posX="23800.0" posY="28200.0" indX="16" indY="2" id="100535040"/>
+      <Position label="DQ" posX="23800.0" posY="21900.0" indX="16" indY="3" id="97977736"/>
+      <Position label="EQ" posX="23800.0" posY="15600.0" indX="16" indY="4" id="97910176"/>
+      <Position label="FQ" posX="23800.0" posY="9300.0" indX="16" indY="5" id="97922800"/>
+      <Position label="GQ" posX="23800.0" posY="3000.0" indX="16" indY="6" id="97922800"/>
+      <Position label="HQ" posX="23800.0" posY="-3300.0" indX="16" indY="7" id="97922800"/>
+      <Position label="IQ" posX="23800.0" posY="-9600.0" indX="16" indY="8" id="97899912"/>
+      <Position label="JQ" posX="23800.0" posY="-15900.0" indX="16" indY="9" id="97922800"/>
+      <Position label="KQ" posX="23800.0" posY="-22200.0" indX="16" indY="10" id="97922800"/>
+      <Position label="LQ" posX="23800.0" posY="-28500.0" indX="16" indY="11" id="100580768"/>
+      <Position label="CR" posX="28100.0" posY="28200.0" indX="17" indY="2" id="100535040"/>
+      <Position label="DR" posX="28100.0" posY="21900.0" indX="17" indY="3" id="97977736"/>
+      <Position label="ER" posX="28100.0" posY="15600.0" indX="17" indY="4" id="97910176"/>
+      <Position label="FR" posX="28100.0" posY="9300.0" indX="17" indY="5" id="97922800"/>
+      <Position label="GR" posX="28100.0" posY="3000.0" indX="17" indY="6" id="100580768"/>
+      <Position label="HR" posX="28100.0" posY="-3300.0" indX="17" indY="7" id="97922800"/>
+      <Position label="IR" posX="28100.0" posY="-9600.0" indX="17" indY="8" id="97899912"/>
+      <Position label="JR" posX="28100.0" posY="-15900.0" indX="17" indY="9" id="97922800"/>
+      <Position label="KR" posX="28100.0" posY="-22200.0" indX="17" indY="10" id="97922800"/>
+      <Position label="CS" posX="32400.0" posY="28200.0" indX="18" indY="2" id="100580768"/>
+      <Position label="DS" posX="32400.0" posY="21900.0" indX="18" indY="3" id="97977736"/>
+      <Position label="ES" posX="32400.0" posY="15600.0" indX="18" indY="4" id="97910176"/>
+      <Position label="FS" posX="32400.0" posY="9300.0" indX="18" indY="5" id="97922800"/>
+      <Position label="HS" posX="32400.0" posY="-3300.0" indX="18" indY="7" id="97922800"/>
+      <Position label="IS" posX="32400.0" posY="-9600.0" indX="18" indY="8" id="97899912"/>
+      <Position label="JS" posX="32400.0" posY="-15900.0" indX="18" indY="9" id="97922800"/>
+      <Position label="KS" posX="32400.0" posY="-22200.0" indX="18" indY="10" id="100580768"/>
+      <Position label="DT" posX="36700.0" posY="21900.0" indX="19" indY="3" id="100580768"/>
+      <Position label="ET" posX="36700.0" posY="15600.0" indX="19" indY="4" id="100580768"/>
+      <Position label="FT" posX="36700.0" posY="9300.0" indX="19" indY="5" id="97922800"/>
+      <Position label="GT" posX="36700.0" posY="3000.0" indX="19" indY="6" id="100579200"/>
+      <Position label="HT" posX="36700.0" posY="-3300.0" indX="19" indY="7" id="97922800"/>
+      <Position label="IT" posX="36700.0" posY="-9600.0" indX="19" indY="8" id="100580768"/>
+      <Position label="JT" posX="36700.0" posY="-15900.0" indX="19" indY="9" id="100580768"/>
+      <Position label="FU" posX="41000.0" posY="9300.0" indX="20" indY="5" id="100580768"/>
+      <Position label="GU" posX="41000.0" posY="3000.0" indX="20" indY="6" id="100580768"/>
+      <Position label="HU" posX="41000.0" posY="-3300.0" indX="20" indY="7" id="100580768"/>
+    </PositionList>
+  </Array>
+</Layout>
